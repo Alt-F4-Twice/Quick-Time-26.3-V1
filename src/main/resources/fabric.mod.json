@@ -5,7 +5,7 @@
 	"version": "${version}",
 	"name": "QuickTime",
 	"description": "Adds better quick and easy time commands!\nFor example: /Day or /Night\n\n§7by §fMax",
-	"icon": "pack.png",
+	"icon": "assets/quicktime/icon.png",
 	"license": "CC0-1.0",
 	"environment": "*",
 	"entrypoints": {
