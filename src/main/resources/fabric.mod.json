@@ -1,9 +1,11 @@
+
 {
 	"schemaVersion": 1,
 	"id": "quicktime",
 	"version": "${version}",
 	"name": "QuickTime",
-	"description": "§7Adds better time commands! /n By Max",
+	"description": "Adds better quick and easy time commands!\nFor example: /Day or /Night\n\n§7by §fMax",
+	"icon": "pack.png",
 	"license": "CC0-1.0",
 	"environment": "*",
 	"entrypoints": {
