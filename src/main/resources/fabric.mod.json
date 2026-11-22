@@ -3,7 +3,7 @@
 	"id": "quicktime",
 	"version": "${version}",
 	"name": "QuickTime",
-	"description": "Adds /day /night /noon /midnight /sunrise /sunset and clock times like /time set 6am.",
+	"description": "§7Adds better time commands! /n By Max",
 	"license": "CC0-1.0",
 	"environment": "*",
 	"entrypoints": {
