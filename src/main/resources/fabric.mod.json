@@ -1,0 +1,18 @@
+{
+	"schemaVersion": 1,
+	"id": "quicktime",
+	"version": "${version}",
+	"name": "QuickTime",
+	"description": "Adds /day /night /noon /midnight /sunrise /sunset and clock times like /time set 6am.",
+	"license": "CC0-1.0",
+	"environment": "*",
+	"entrypoints": {
+		"main": ["com.example.quicktime.QuickTime"]
+	},
+	"depends": {
+		"fabricloader": ">=0.20.1",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}
